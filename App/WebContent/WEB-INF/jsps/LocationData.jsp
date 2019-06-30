@@ -18,6 +18,7 @@ background-color:black;
 <h1>Welcome To Data</h1>
 <table border="1">
 <tr>
+    <th><th>
    <th>ID</th>
    <th>Code</th>
    <th>Name</th>
