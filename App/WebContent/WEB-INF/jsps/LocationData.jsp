@@ -19,6 +19,7 @@ background-color:black;
 <table border="1">
 <tr>
    <th>ID</th>
+    <th><th>
    <th>Code</th>
    <th>Name</th>
    <th>Type</th>
